@@ -1,1 +1,2 @@
 # fab
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"/></head><body><script type="text/javascript" nonce="2Ak1ZrOeh9+HoH0mCsTq6Q">document.addEventListener('DOMContentLoaded', function() {var cb = window; var tmpWin; var id = 'gtn-roster-iframe-id'; while (true) {try {if (cb.frames[id]) {break;}} catch (e) {}if (cb == cb.parent) {if (cb.opener) {cb = cb.opener;} else {break;}} else {cb = cb.parent;}}if (cb.frames[id]) {cb.frames[id]['_GC_OnFrameReady'](window);} else {throw Error();}});</script></body></html>
